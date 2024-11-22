@@ -21,4 +21,4 @@ main()
     process.exit(1);
   });
 
-  //Delance contract deployed to 0x995B58dA4F38e0947D76E79DeAF2d92a0588fA2c
+  //Delance contract deployed to 0x1cbD563B6F743b82f2F345B342C08E9E666Ef7Be
